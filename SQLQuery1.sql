@@ -1,0 +1,1 @@
+﻿CREATE TABLE [dbo].[emailsending] (    [Email]   NVARCHAR (150) NOT NULL,    [Subject] NVARCHAR (300) NOT NULL,    [Body]    NVARCHAR (300) NOT NULL);
